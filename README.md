@@ -68,11 +68,9 @@ This project provides a simulation framework for studying:
 
 ---
 
-## Obs
+## Observation
 
 The MATLAB script comparison.m contains an independent implementation of the same guidance algorithm developed in C++, allowing comparison and verification between both implementations.
-
----
 
 ---
 
