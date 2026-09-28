@@ -1,6 +1,0 @@
-// Como seria aplicar threads (tasks com prioridades) a fim de simular um RTOS nesse projeto
-// keyword Virtual, Herança
-// Talvez Polimorfismo e Operators
-
-// DESVANTAGEM EM FAZER COM STRUCT -> NAO PODER AUTOMATIZAR PROCESSOS EM LOOPS FOR VARRENDO OS INDICES (PRECISO ESCREVER TUDO...)
-// ESSA DESVANTAGEM SE FEZ PRESENTE QUANDO FIZ O PROCESSO DE INTEGRACAO (A INTEGRACAO USANDO ARRAY MUITO MAIS SIMPLES)
