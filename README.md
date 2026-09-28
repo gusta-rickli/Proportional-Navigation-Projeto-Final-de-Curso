@@ -77,4 +77,5 @@ The MATLAB script comparison.m contains an independent implementation of the sam
 ## Author
 
 Aerospace Engineering Project
+
 Gustavo Rickli
